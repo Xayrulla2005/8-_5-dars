@@ -3,8 +3,8 @@ import { Controller, Get } from '@nestjs/common';
 export class AppController {
   appService: any;
 
-  @Get()
-  getHello(): string {
-    return this.appService.getHello();
-  }
+  // @Get()
+  // getHello(): string {
+  //   return this.appService.getHello();
+  // }
 }

@@ -1,0 +1,11 @@
+{
+    "message": "token_generated",
+    "data": {
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzAxOTA4MjIsImlhdCI6MTc2NzU5ODgyMiwicm9sZSI6InRlc3QiLCJzaWduIjoiNjZlODIyN2UxODBlNGEwMTY3NGEzZjQ4OWU0ZjAwYzA1OWU4YjY1ZjFhN2Q0MWRiMDc0ZGMxYmNlOGU0MTU2YSIsInN1YiI6IjEzOTE0In0.W4rQUH8MSctL5RwfxLEViD_sohrGq7eZFQz6CXDkO74"
+    },
+    "token_type": "bearer"
+}
+
+
+SMS_PASS=XxDHurxBQj86k3FKfvYE085oWb2MQNayGG4TrOC2
+SMS_LOGIN=xayrullamatyakubov2005@gmail.com
